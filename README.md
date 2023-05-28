@@ -73,4 +73,4 @@ UserDetails loadUserByUsername(String username) throws UsernameNotFoundException
 ```
 
 ### 系统架构图
-![security_filter.png](imgs/security_filter.png)
+![security_filter.png](imgs/security_overview.png)
